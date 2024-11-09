@@ -11,4 +11,4 @@
   git pull https://github.com/adeelgauri/Simple-Fun-Calculator.git
 ```
 # Contribute
-Contribute in my project for learning
+Contribute in my project
